@@ -4,6 +4,7 @@ Written with the intent of analysing Final Fantasy XIV characters on how the gam
 Developed in conjunction with the following research:
 
 "Analise de técnicas de clusterização em MMO com dados restritos: o caso de Final Fantasy XIV"
+-Lucas V Fernandes, 2020, Informatics Master Thesis, Universidade de Brasilia
 
 HOW TO:
 
